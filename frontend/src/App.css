@@ -1,0 +1,141 @@
+/* -------------------Navbar------------------------ */
+.comPName {
+  color: #0F172A;
+  font-family: Inter;
+  padding-left: 15px;
+  padding-top: 3px;
+}
+
+.navBarCustom {
+  background-color: #FFFFFF;
+}
+
+.navBottomBorder {
+  min-height: 1px;
+  width: 100%;
+  background-color: #E4E8EE;
+}
+
+/* -------------------My Stack Home Page------------------------ */
+
+.myStackpage {
+  width: 100%;
+  height: 900px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #F8FAFC;
+  align-items: center;
+}
+
+.myStackDiv {
+  border-bottom: 2px solid #E4E8EE;
+}
+
+.myStackHead {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.04em;
+  text-align: left;
+}
+
+.newStackButton {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16.94px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: #FFFFFF;
+  width: Hug (124px)px;
+  height: Fixed (40px)px;
+  top: 83px;
+  left: 1263px;
+  padding: 9px 15px 9px 15px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 0px;
+  background-color: #44924C;
+}
+
+.plusIcon {
+  width: 16px;
+  height: 16px;
+  padding: 3.33px 0px 0px 0px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+
+/* ------------------New Stack Card------------------ */
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 12%;
+}
+
+.card {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 45px 50px 45px 50px;
+  max-width: 650px;
+  width: 100%;
+  text-align: left;
+  border-radius: 20px;
+  /* line-height: 20px; */
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.cardTitle {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29.05px;
+  text-align: left;
+
+}
+
+.subHeadcard {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: left;
+  color: #666666;
+  padding-top: 10px;
+}
+
+/* ----------------Create Stack Dialog Form------------------ */
+
+.createButton {
+  background: #44924C;
+  /* text-decoration: none; */
+}
+
+.cardtextArea {
+  padding: 5px;
+  border-width: 1px;
+  border-color: #C4C4C4;
+  outline: none;
+}
+
+.DialogTitle {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.36px;
+  text-align: left;
+
+}
